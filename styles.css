@@ -1,7 +1,17 @@
 * {
+    font-family: "Helvetica", "Verdana", sans-serif;
     text-align: center;
 }
 
-ul {
-    display: inline;
+ul, ol{
+    display: inline-block;
+}
+
+li {
+    text-align: left;
+}
+
+img {
+    height: auto;
+    width: 500px;
 }
